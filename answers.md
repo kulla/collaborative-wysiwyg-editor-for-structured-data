@@ -24,7 +24,7 @@ WYSIWYG JSON Editor Framework
 
 ### Hast du einen Account bei GitHub, BitBucket oder einer ähnlichen Plattform? Wenn ja, gib bitte den entsprechenden Link an.
 
-(optional)
+https://github.com/kulla
 
 ## 2. Dein Projekt
 
