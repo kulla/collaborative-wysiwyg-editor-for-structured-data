@@ -39,9 +39,8 @@ Nutzererfahrung und Kollaboration bieten, unterstützen sie keine strukturierten
 Inhalte. Formbasierte Editoren wie H5P ermöglichen strukturierte Inhalte,
 bleiben aber in der Nutzererfahrung hinter heutigen Standards zurück und
 unterstützen keine gleichzeitige Bearbeitung. Unser Framework kombiniert beide
-Ansätze und erleichtert so die Erstellung strukturierter Dokumente mit
-komplexeren Workflows – bspw. in der Bildung, im Jorunalismus oder im
-Gesundheitswesen.
+Ansätze und erleichtert so die Erstellung strukturierter Dokumente – bspw. in
+der Bildung, im Jorunalismus oder im Gesundheitswesen.
 
 ### Welche gesellschaftliche Herausforderung willst du mit dem Projekt angehen? \*
 
