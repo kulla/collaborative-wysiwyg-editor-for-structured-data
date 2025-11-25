@@ -72,29 +72,25 @@ Erstellung von Formularen oder journalistischen bzw. juristischen Inhalten.
 
 (max. 175 Wörter)
 
-Die technische Grundlage bildet ein schema-basierter Ansatz: Die
-Dokumentenstruktur wird ähnlich wie bei JSON Schema oder Validierungstools wie
-zod / io-ts über ein Schema beschrieben. Dieses Schema beschreibt, welche Arten
-von Knoten ein Dokument enthält und welche Eigenschaften sie besitzen (z.B. ob
-und wie Knoten gesplittet und gemergt werden können). Dieses Schema definiert
-insbesondere auch das Rendering der einzelnen Knoten.
+Die technische Umsetzung basiert auf einem schema-orientierten Ansatz: Die
+Dokumentstruktur wird – angelehnt an JSON Schema oder Typing-Frameworks wie zod
+und io-ts – über klar definierte Knotentypen beschrieben. Diese Typen legen
+nicht nur Eigenschaften und erlaubte Operationen (z. B. Split/Merge) fest,
+sondern auch das Rendering der jeweiligen Knoten.
 
-Die Schema-Definition ermöglicht außerdem eine Beschreibung der
-Dokumentenstruktur für LLMs, so dass im Editor Inhalte per generativer AI neu
-erstellt oder bearbeitet werden kann.
+Das Schema dient zudem als strukturierte Schnittstelle für LLMs, sodass Inhalte
+über AI generiert, umgeschrieben oder ergänzt werden können. Intern wird der
+Dokumentenbaum in einer flachen Struktur gespeichert, was effiziente Updates in
+tief verschachtelten Bereichen ermöglicht.
 
-Intern wird der Dokumentenbaum in einer flachen Struktur gespeichert. Dadurch
-können auch tief verschachtelte Änderungen effizient beschrieben und
-durchgeführt werden. Für die Echtzeit-Kollaboration wird von Beginn an ein
-CRDT-Framework wie Yjs oder Loro eingesetzt, so dass konfliktfreie
-Synchronisation zwischen mehreren Nutzer\*innen gewährleistet ist.
+Für die Echtzeit-Kollaboration wird ein CRDT-Framework wie Yjs oder Loro
+eingesetzt, wodurch gleichzeitige Bearbeitung ohne Konflikte gewährleistet ist.
+In der Prototypenphase wird evaluiert, ob die Rich-Text-Bearbeitung über
+spezielle Blattknoten mit ProseMirror als Editor-Engine oder komplett im
+entwickelten Framework umgesetzt wird.
 
-In der Prototypenentwicklung wird überprüft, ob es sinnvoll ist, als
-Blatt-Knoten Richtext-Elemente auf Basis von ProseMirror zu ermöglichen oder ob
-die RichText-Erstellung komplett im Framework abgebildet werden soll.
-
-Das Projekt wird in TypeScript entwickelt und unter einer freien Apache-Lizenz
-auf GitHub bereitgestellt.
+Die Entwicklung erfolgt vollständig in TypeScript. Das Projekt wird unter einer
+freien Apache-Lizenz auf GitHub veröffentlicht.
 
 ### Hast du schon an der Idee gearbeitet? Wenn ja, beschreibe kurz den aktuellen Stand und erkläre die geplanten Neuerungen. \*
 
