@@ -46,25 +46,25 @@ der Bildung, im Jorunalismus oder im Gesundheitswesen.
 
 (max. 175 Wörter)
 
-Ich will erreichen, dass Lehrende kollaborativ und mit möglichst wenig Aufwand
-exzellente Lernmaterialien erstellen können. Als
-Softwareentwickler bin ich dabei auf eine Lücke gestoßen:
-WYSIWYG-Editor-Frameworks wie Lexical oder ProseMirror bieten hervorragende
-User-Experience und Echtzeit-Kollaboration. Deren Datenmodell unterstützt aber
-keine strukturierten Inhalte (= Elemente, die man als Objekte in JSON darstellen
-würde). Formbasierte
-Editoren wie H5P ermöglichen solche Strukturen, sind aber . Der Workflow eines Arbeitsblattes (Erstellung,
-Bearbeitung durch Lerende, Korrektur) lässt sich außerdem nicht mit einem
-einfachen Editier-/Lesemodus der Editorframeworks abbilden.
+Wir wollen will erreichen, dass Lehrende kollaborativ und mit möglichst wenig
+Aufwand exzellente Lernmaterialien erstellen können. Lehrkäften und Dozierende
+haben unserer Meinung nach eine zentrale Rolle, um aktualle Herausforderungen in
+der Bildung (wie Chancengleichheit, Heterogenität) zu meistern. Dafür müssen sie
+aber erstens die Zeit und zweitens die richtigen Werkzeuge haben.
 
-Ich möchte deswegen ein Framework
+In der Arbeit an dieser Vision sind wir auf eine technische Lücke gestoßen: Es
+gibt bisher kein Framework, das es ermöglicht, strukturierte Dokumente (z.B.
+Arbeitsblätter in unserem Fall) in Echtzeit gemeinsam und mit einer
+WYSIWYG-User-Experience zu erstellen. Der Workflow eines Arbeitsblattes
+(Erstellung durch Lehrende, Bearbeitung durch Lernende, Korrektur durch
+Lehrkraft) lässt sich außerdem nicht mit einem einfachen Editier-/Lesemodus der
+aktuellen Editorframeworks abbilden. Wir wollen diese Lücke schließen.
 
-Auf der anderen Seite gibt es formbasierte Editoren wie H5P, die aber eine
-schlechtere User-Experience und keine gleichzeitige Kollaboration unterstützt.
-Ich will in einem Framework beide Ansätze kombinieren. So kann dann nicht nur
-ein Google-Docs-ähnlicher Editor für Lernmaterialien enstehen, auch andere
-Bereiche profitieren davon, in denen strukturierte Dokumente mit komplexeren
-Workflows erstellt werden müssen.
+Wir sind außerdem überzeugt, dass ein solches Framework nicht nur im
+Bildungsbereich nützlich ist, sondern auch in anderen Bereichen, in denen
+strukturierte Dokumente mit komplexeren Workflows erstellt werden müssen (z.B.
+technische Dokumentationen und Konfigurationen, Erstellung von Formularen,
+Erstellung journalistischer oder jurristischer Inhalte).
 
 ### Wie willst du dein Projekt technisch umsetzen? \*
 
