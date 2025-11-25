@@ -49,7 +49,12 @@ https://github.com/kulla
 
 (max. 175 Wörter)
 
--
+- Schema-basierter Ansatz: Dokument ist ein Baum von Knoten => Jeder Knoten hat einen Typ + Eigenschaften (u.a. das Rendering)
+- Dokumentknoten werden ähnlich wie bei zod / io-ts beschrieben
+- Speicherung erfolgt in einer flachen Struktur => So sind Änderungen direkt im Node möglich
+- Basis ist ein CRDT-Framework wie Yjs => Kollaborative Bearbeitung
+- Zwei Möglichkeiten: Leaf könnte Richtext sein oder nicht
+- Sprache ist TypeScript
 
 ### Hast du schon an der Idee gearbeitet? Wenn ja, beschreibe kurz den aktuellen Stand und erkläre die geplanten Neuerungen. \*
 
