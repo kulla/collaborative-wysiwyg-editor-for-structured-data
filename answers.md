@@ -1,5 +1,3 @@
-# undefined
-
 ## 1. Allgemeines
 
 ### Projekttitel \*
@@ -32,19 +30,26 @@ https://github.com/kulla
 
 (max. 100 Wörter)
 
-Limit this field to 100 words.
+- Framework entwickeln, um
 
 ### Welche gesellschaftliche Herausforderung willst du mit dem Projekt angehen? \*
 
 (max. 175 Wörter)
 
-Limit this field to 175 words.
+- Bildung ist wesentliche Säule um zukünftige Herausforderungen zu meistern.
+- Meine Vision: Lehrende haben Werkzeuge, um schnell und effizient großartige digitale Lernmaterialien zu erstellen.
+- Was ich dabei gelernt habe: Auf der einen Seite haben wir Rich-Text-Editoren, die ähnlich wie bei Google Docs kollaborative zusammenarbeit ermöglichen => Jedoch können keine strukturierten Daten erstellt werden
+- Auf der anderen Seite haben wir formbasierte Editoren wie H5P => mit schlechter UX
+- Ziel: Framework mit dem auf der einen Seite strukturiete JSON-Daten per WYSIWYG erstellt werden + kollaboration
+- Komplexer Workflow: Arbeitsblatt erstellen => Ausfüllen lassen => Korrektur
+- Anwendung: Bildung => Strukturiete Dokumente mit komplexeren Worksflows
+- Beispiel: Editor für Webseiten // Formulareditoren // Editor für technische Konfigurationen
 
 ### Wie willst du dein Projekt technisch umsetzen? \*
 
 (max. 175 Wörter)
 
-Limit this field to 175 words.
+-
 
 ### Hast du schon an der Idee gearbeitet? Wenn ja, beschreibe kurz den aktuellen Stand und erkläre die geplanten Neuerungen. \*
 
