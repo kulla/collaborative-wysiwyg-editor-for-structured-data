@@ -36,14 +36,16 @@ https://github.com/kulla
 
 (max. 175 Wörter)
 
-- Bildung ist wesentliche Säule um zukünftige Herausforderungen zu meistern.
-- Meine Vision: Lehrende haben Werkzeuge, um schnell und effizient großartige digitale Lernmaterialien zu erstellen.
-- Was ich dabei gelernt habe: Auf der einen Seite haben wir Rich-Text-Editoren, die ähnlich wie bei Google Docs kollaborative zusammenarbeit ermöglichen => Jedoch können keine strukturierten Daten erstellt werden
-- Auf der anderen Seite haben wir formbasierte Editoren wie H5P => mit schlechter UX
-- Ziel: Framework mit dem auf der einen Seite strukturiete JSON-Daten per WYSIWYG erstellt werden + kollaboration
-- Komplexer Workflow: Arbeitsblatt erstellen => Ausfüllen lassen => Korrektur
-- Anwendung: Bildung => Strukturiete Dokumente mit komplexeren Worksflows
-- Beispiel: Editor für Webseiten // Formulareditoren // Editor für technische Konfigurationen
+Ich will erreichen, dass Lehrende kollaborativ und mit möglichst wenig Aufwand
+exzellente Lernmaterialien erstellen können. Als Softwareentwickler bin ich
+dabei auf eine Lücke gestoßen: Auf der einen Seite gibt es exzellente Frameworks
+für kollaborative WYSIWYG-Editoren wie ProseMirror oder Lexical, deren
+Datenmodell aber keine strukturierten Objekte unterstützt. Auf der anderen Seite
+gibt es formbasierte Editoren wie H5P, die aber eine schlechtere User-Experience
+und keine gleichzeitige Kollaboration unterstützt. Ich will in einem Framework
+beide Ansätze kombinieren. So kann dann nicht nur ein Google-Docs-ähnlicher
+Editor für Lernmaterialien enstehen, auch andere Bereiche profitieren davon, in
+denen strukturierte Dokumente mit komplexeren Workflows erstellt werden müssen.
 
 ### Wie willst du dein Projekt technisch umsetzen? \*
 
