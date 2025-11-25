@@ -48,15 +48,24 @@ Gesundheitswesen.
 (max. 175 Wörter)
 
 Ich will erreichen, dass Lehrende kollaborativ und mit möglichst wenig Aufwand
-exzellente Lernmaterialien erstellen können. Als Softwareentwickler bin ich
-dabei auf eine Lücke gestoßen: Auf der einen Seite gibt es exzellente Frameworks
-für kollaborative WYSIWYG-Editoren wie ProseMirror oder Lexical, deren
-Datenmodell aber keine strukturierten Objekte unterstützt. Auf der anderen Seite
-gibt es formbasierte Editoren wie H5P, die aber eine schlechtere User-Experience
-und keine gleichzeitige Kollaboration unterstützt. Ich will in einem Framework
-beide Ansätze kombinieren. So kann dann nicht nur ein Google-Docs-ähnlicher
-Editor für Lernmaterialien enstehen, auch andere Bereiche profitieren davon, in
-denen strukturierte Dokumente mit komplexeren Workflows erstellt werden müssen.
+exzellente Lernmaterialien erstellen können. Als
+Softwareentwickler bin ich dabei auf eine Lücke gestoßen:
+WYSIWYG-Editor-Frameworks wie Lexical oder ProseMirror bieten hervorragende
+User-Experience und Echtzeit-Kollaboration. Deren Datenmodell unterstützt aber
+keine strukturierten Inhalte (= Elemente, die man als Objekte in JSON darstellen
+würde). Formbasierte
+Editoren wie H5P ermöglichen solche Strukturen, sind aber . Der Workflow eines Arbeitsblattes (Erstellung,
+Bearbeitung durch Lerende, Korrektur) lässt sich außerdem nicht mit einem
+einfachen Editier-/Lesemodus der Editorframeworks abbilden.
+
+Ich möchte deswegen ein Framework
+
+Auf der anderen Seite gibt es formbasierte Editoren wie H5P, die aber eine
+schlechtere User-Experience und keine gleichzeitige Kollaboration unterstützt.
+Ich will in einem Framework beide Ansätze kombinieren. So kann dann nicht nur
+ein Google-Docs-ähnlicher Editor für Lernmaterialien enstehen, auch andere
+Bereiche profitieren davon, in denen strukturierte Dokumente mit komplexeren
+Workflows erstellt werden müssen.
 
 ### Wie willst du dein Projekt technisch umsetzen? \*
 
