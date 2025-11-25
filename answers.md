@@ -46,25 +46,27 @@ der Bildung, im Jorunalismus oder im Gesundheitswesen.
 
 (max. 175 Wörter)
 
-Wir wollen will erreichen, dass Lehrende kollaborativ und mit möglichst wenig
-Aufwand exzellente Lernmaterialien erstellen können. Lehrkäften und Dozierende
-haben unserer Meinung nach eine zentrale Rolle, um aktualle Herausforderungen in
-der Bildung (wie Chancengleichheit, Heterogenität) zu meistern. Dafür müssen sie
-aber erstens die Zeit und zweitens die richtigen Werkzeuge haben.
+Wir wollen will erreichen, dass Lehrende kollaborativ und mit minimalen Aufwand
+exzellente Lernmaterialien erstellen können. Lehrkäften und Dozierenden haben
+unserer Meinung nach eine zentrale Rolle, damit aktuelle Herausforderungen im
+Bildungsbereich (z.B. Heterogenität der Schülerschaft, soziale
+Bildungsungleichheiten & Chancengerechtigkeit) gemeistert werden können. Dafür
+brauchen sie u.a. die richtigen Werkzeuge, durch die eine zeitsparende
+Unterrichtsvorbereitung und effiziente Materialerstellung möglich ist.
 
-In der Arbeit an dieser Vision sind wir auf eine technische Lücke gestoßen: Es
-gibt bisher kein Framework, das es ermöglicht, strukturierte Dokumente (z.B.
-Arbeitsblätter in unserem Fall) in Echtzeit gemeinsam und mit einer
-WYSIWYG-User-Experience zu erstellen. Der Workflow eines Arbeitsblattes
-(Erstellung durch Lehrende, Bearbeitung durch Lernende, Korrektur durch
-Lehrkraft) lässt sich außerdem nicht mit einem einfachen Editier-/Lesemodus der
-aktuellen Editorframeworks abbilden. Wir wollen diese Lücke schließen.
+Im Zuge der Arbeit an dieser Vision sind wir auf eine technische Lücke gestoßen:
+Es gibt bisher kein Framework, dass sowohl die Erstellung strukturierter
+Dokumente (in unserem Fall digitale Arbeitsblätter) als auch
+Echzeit-Kollaboration und eine WYSIWYG-User-Experience ermöglicht. Der typische
+Prozess eines Arbeitsblattes – Erstellung durch Lehrkräfte, Bearbeitung durch
+Lernende, anschließende Korrektur – lässt sich mit den heutigen
+Editorframeworks, die meist nur zwischen Bearbeiten und Lesen unterscheiden,
+nicht abbilden. Hier setzen wir an.
 
-Wir sind außerdem überzeugt, dass ein solches Framework nicht nur im
-Bildungsbereich nützlich ist, sondern auch in anderen Bereichen, in denen
-strukturierte Dokumente mit komplexeren Workflows erstellt werden müssen (z.B.
-technische Dokumentationen und Konfigurationen, Erstellung von Formularen,
-Erstellung journalistischer oder jurristischer Inhalte).
+Wir sind überzeugt, dass ein solches Framework nicht nur im Bildungsbereich,
+sondern auch in weiteren Feldern mit komplexen Dokumentenprozessen erheblichen
+Mehrwert bietet – etwa bei technischen Dokumentationen und Konfigurationen, der
+Erstellung von Formularen oder journalistischen bzw. juristischen Inhalten.
 
 ### Wie willst du dein Projekt technisch umsetzen? \*
 
