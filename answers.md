@@ -190,6 +190,14 @@ werden, kann auf https://www.prototypefund.de/faq nachgelesen werden.
 
 Limit this field to 100 words.
 
+- Kulla: Ausgebildete Lehrkraft für Mathematik und Physik und
+  Bildungsbegesiterte Person. Hat über 10 Jahre lang ehren- und hauptamtlich
+  beim Serlo mitgewirkt, welche monatlich 600.000 bis 1.000.000 Schüler\*innen
+  erreicht. Kulla hat außerdem das freie Lernbuch "Mathe für Nicht-Freaks"
+  gegründet und geschrieben, welches geschätzt 50% aller MINT-Studienanfänger
+  erreicht und ihnen einen einfachen Übergang von der Schul- in die
+  Universitätsmathematik ermöglichst
+
 ## 4. Second Stage
 
 ### Beantragst du die viermonatige Second-Stage-Förderung nach Ablauf der sechsmonatigen regulären Förderung? \*
