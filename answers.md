@@ -72,13 +72,16 @@ https://github.com/kulla
 
 (max. 100 Wörter)
 
-Limit this field to 100 words.
+- Frameworks für Rich-Text-Editoren wie ProseMirror, Slate.js oder Lexical => deren Datenmodell unterstützt keine strukturieten Daten
+- Formbasierte Editoren wie H5P => schlechtere UX + keine kollaborative Bearbeitung
+- Statemanagement-Lösungen wie Redux oder Zustand => keine Unterstützung für kollaborative Bearbeitung + keine Unterstützung schema-basierter Dokumentbeschreibung (Merging, Splitting, AI-Generierung)
 
 ### Wer ist die Zielgruppe und wie soll dein Projekt sie erreichen? \*
 
 (max. 100 Wörter)
 
-Limit this field to 100 words.
+- Zielgruppe: Organisationen und Einzelpersonen, die webbasierte Lösungen zur kollaborativen Erstellung strukturierter Inhalte benötigen + inklusiv AI basierte Funktionen erstellen
+- Beispiele: Bildungsinst
 
 ### Skizziere kurz die wichtigsten Meilensteine, die im Förderzeitraum umgesetzt werden sollen. \*
 
