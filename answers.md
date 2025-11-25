@@ -72,14 +72,29 @@ Erstellung von Formularen oder journalistischen bzw. juristischen Inhalten.
 
 (max. 175 Wörter)
 
-- Schema-basierter Ansatz: Dokument ist ein Baum von Knoten => Jeder Knoten hat
-  einen Typ + Eigenschaften (u.a. das Rendering)
-- Dokumentknoten werden ähnlich wie bei zod / io-ts beschrieben
-- Speicherung erfolgt in einer flachen Struktur => So sind Änderungen direkt im
-  Node möglich
-- Basis ist ein CRDT-Framework wie Yjs => Kollaborative Bearbeitung
-- Zwei Möglichkeiten: Leaf könnte Richtext sein oder nicht
-- Sprache ist TypeScript
+Die technische Grundlage bildet ein schema-basierter Ansatz: Die
+Dokumentenstruktur wird ähnlich wie bei JSON Schema oder Validierungstools wie
+zod / io-ts über ein Schema beschrieben. Dieses Schema beschreibt, welche Arten
+von Knoten ein Dokument enthält und welche Eigenschaften sie besitzen (z.B. ob
+und wie Knoten gesplittet und gemergt werden können). Dieses Schema definiert
+insbesondere auch das Rendering der einzelnen Knoten.
+
+Die Schema-Definition ermöglicht außerdem eine Beschreibung der
+Dokumentenstruktur für LLMs, so dass im Editor Inhalte per generativer AI neu
+erstellt oder bearbeitet werden kann.
+
+Intern wird der Dokumentenbaum in einer flachen Struktur gespeichert. Dadurch
+können auch tief verschachtelte Änderungen effizient beschrieben und
+durchgeführt werden. Für die Echtzeit-Kollaboration wird von Beginn an ein
+CRDT-Framework wie Yjs oder Loro eingesetzt, so dass konfliktfreie
+Synchronisation zwischen mehreren Nutzer\*innen gewährleistet ist.
+
+In der Prototypenentwicklung wird überprüft, ob es sinnvoll ist, als
+Blatt-Knoten Richtext-Elemente auf Basis von ProseMirror zu ermöglichen oder ob
+die RichText-Erstellung komplett im Framework abgebildet werden soll.
+
+Das Projekt wird in TypeScript entwickelt und unter einer freien Apache-Lizenz
+auf GitHub bereitgestellt.
 
 ### Hast du schon an der Idee gearbeitet? Wenn ja, beschreibe kurz den aktuellen Stand und erkläre die geplanten Neuerungen. \*
 
