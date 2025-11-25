@@ -55,7 +55,9 @@ https://github.com/kulla
 
 (max. 100 Wörter)
 
-Limit this field to 100 words.
+- Beschreibung der beiden Alternativen Ansätze mit Lexical + ProseMirror
+- Prototyp ohne ProseMirror
+- Prototyp mit ProseMirror
 
 ### Link zum bestehenden Projekt (falls vorhanden)
 
