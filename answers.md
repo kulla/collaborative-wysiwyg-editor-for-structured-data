@@ -120,10 +120,18 @@ freien Apache-Lizenz auf GitHub veröffentlicht.
 
 (max. 100 Wörter)
 
-- Zielgruppe: Organisationen und Einzelpersonen, die webbasierte Lösungen zur
-  kollaborativen Erstellung strukturierter Inhalte benötigen + inklusiv AI
-  basierte Funktionen erstellen
-- Beispiele: Bildungsinst
+Die Zielgruppe umfasst Organisationen und Einzelpersonen, die webbasierte
+Lösungen zur kollaborativen Erstellung strukturierter Inhalte benötigen. Neben
+EdTech-Initiativen und Bildungseinrichtungen, zählen hierzu auch Teams aus
+anderen Bereichen wie Journalismus, dem Gesundheitswesen oder der
+Softwareentwicklung.
+
+Das Framework wird frei zugänglich über GitHub und NPM bereitgestellt. Um die
+Zielgruppe zu erreichen, suchen wir den Austausch mit bestehenden Communities
+rund um ProseMirror, Slate.js und Lexical. Erfolgreiche Konzepte aus dem Projekt
+können perspektivisch in bestehende Open-Source-Editor-Ökosysteme einfließen.
+Wir werden anschließend das Framework verwenden, um kollaborative und intuitive
+Erstellung von digitalen Arbeitsblättern zu ermöglichen.
 
 ### Skizziere kurz die wichtigsten Meilensteine, die im Förderzeitraum umgesetzt werden sollen. \*
 
