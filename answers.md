@@ -108,13 +108,19 @@ freien Apache-Lizenz auf GitHub veröffentlicht.
 
 (max. 100 Wörter)
 
-- Frameworks für Rich-Text-Editoren wie ProseMirror, Slate.js oder Lexical =>
-  deren Datenmodell unterstützt keine strukturieten Daten
-- Formbasierte Editoren wie H5P => schlechtere UX + keine kollaborative
-  Bearbeitung
-- Statemanagement-Lösungen wie Redux oder Zustand => keine Unterstützung für
-  kollaborative Bearbeitung + keine Unterstützung schema-basierter
-  Dokumentbeschreibung (Merging, Splitting, AI-Generierung)
+Auf der einen Seite gibt es erfolgreiche WYSIWYG-Editor-Frameworks wie Lexical,
+ProseMirror und Slate.js. Deren Datenmodell unterstützt jedoch keine Strukturen,
+die sich in JSON als Objekte darstellen lassen – etwa eine Übungsaufgabe, die
+als Objekt mit Aufgabenstellung und Lösung beschrieben wird. Dadurch können
+komplexere Dokumentstrukturen nicht vorgegeben werden.
+
+Auf der anderen Seite stehen formularbasierte Editoren wie H5P, deren
+Nutzererfahrung im Vergleich zu modernen WYSIWYG-Editoren eingeschränkter ist
+und die zudem keine gleichzeitige Kollaboration ermöglichen.
+
+Unser Ansatz kombiniert beide Welten, indem von Anfang an neben Listen auch
+Objekte im Dokumentenbaum erlaubt werden. So können beliebige
+Dokumentenstrukturen vorgegeben werden.
 
 ### Wer ist die Zielgruppe und wie soll dein Projekt sie erreichen? \*
 
