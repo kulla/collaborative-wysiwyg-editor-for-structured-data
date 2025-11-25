@@ -2,7 +2,7 @@
 
 ### Projekttitel \*
 
-WYSIWYG JSON Editor Framework
+Kollaborativer WYSIWYG-Editor für strukturierte Dokumente
 
 ### Name für den Account \*
 
