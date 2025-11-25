@@ -175,6 +175,10 @@ Repository) (optional | max. 100 Wörter)
 
 Limit this field to 100 words.
 
+- Serlo Editor
+- Serlo Plattform
+- ...
+
 ### Wie viele Stunden willst du (bzw. will das Team) in den 6 Monaten Förderzeitraum insgesamt an der Umsetzung arbeiten? \*
 
 Hinweis: Bitte nur eine Zahl eintragen - max. 950 h für eine Person oder max.
