@@ -1,6 +1,5 @@
 {
   "name": "collaborative-wysiwyg-editor-for-structured-data",
-  "module": "index.ts",
   "type": "module",
   "private": true,
   "devDependencies": {
