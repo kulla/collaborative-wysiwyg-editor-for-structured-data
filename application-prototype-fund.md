@@ -114,6 +114,8 @@ einfache Übungsaufgaben abzubilden
 
 (optional)
 
+https://github.com/kulla/collaborative-wysiwyg-editor-for-structured-data
+
 ### Welche ähnlichen Ansätze gibt es schon und was wird dein Projekt anders bzw. besser machen? \*
 
 (max. 100 Wörter)
