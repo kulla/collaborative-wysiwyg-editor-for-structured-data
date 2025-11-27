@@ -61,7 +61,7 @@ Echzeit-Kollaboration und eine WYSIWYG-User-Experience ermöglicht. Der typische
 Prozess eines Arbeitsblattes – Erstellung durch Lehrkräfte, Bearbeitung durch
 Lernende, anschließende Korrektur – lässt sich mit den heutigen
 Editorframeworks, die meist nur zwischen Bearbeiten und Lesen unterscheiden,
-nicht abbilden. Hier setzen wir an.
+schwer abbilden. Hier setzen wir an.
 
 Wir sind überzeugt, dass ein solches Framework nicht nur im Bildungsbereich,
 sondern auch in weiteren Feldern mit komplexen Dokumentenprozessen erheblichen
@@ -159,7 +159,8 @@ Limit this field to 100 words.
 
 ### Bewerbt ihr euch als Team um die Förderung? \*
 
-ja nein
+- [x] ja
+- [ ] nein
 
 ### Für Teams: Namen der Teammitglieder (verbindliche Nennung)
 
