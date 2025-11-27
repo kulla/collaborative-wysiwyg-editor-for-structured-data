@@ -107,7 +107,7 @@ demonstriert die Möglichkeit eines WYSIWYG-Editors für strukturierte Inhalte m
 nur rund 2.000 Zeilen Code. Gleichzeitig zeigte sich in anderen Prototypen, dass
 bestehende Editor‑Frameworks kaum geeignet sind, strukturierte Dokumente wie
 einfache Übungsaufgaben abzubilden
-([Prototyp für ProseMirror](https://github.com/kulla/2025-10-28-editor).
+([Prototyp für ProseMirror](https://github.com/kulla/2025-11-15-prosekit-with-multiple-choice-exercise).
 [Prototyp für Lexical](https://github.com/kulla/2025-11-08-lexical-with-multiple-choice-exercise)).
 
 ### Link zum bestehenden Projekt (falls vorhanden)
