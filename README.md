@@ -8,4 +8,5 @@ like using functional lenses for direct, targeted edits.
 
 ## Documents
 
+- [Architecture of editor framework](./architecture.md)
 - [Application for Prototype Fund](./application-prototype-fund.md)
