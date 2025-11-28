@@ -1,16 +1,11 @@
-# collaborative-wysiwyg-editor-for-structured-data
+# A collaborative WYSIWYG editor for structured documents
 
-To install dependencies:
+We want to write a WYSIWYG editor for JSON structures. Unlike modern editor
+frameworks like Lexical, ProseMirror, or Slate, it also supports plain objects
+with ordered properties (the order of their properties is the order you see in
+the editor). You can intuitively update or change any node in the JSON, much
+like using functional lenses for direct, targeted edits.
 
-```bash
-bun install
-```
+## Documents
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.3.3. [Bun](https://bun.com)
-is a fast all-in-one JavaScript runtime.
+- [Application for Prototype Fund](./application-prototype-fund.md)
