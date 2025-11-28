@@ -34,13 +34,15 @@ Wir wollen ein Framework entwickeln, das es ermöglicht, strukturierte Dokumente
 (z.B. Arbeitsblätter, Formulare, Konfigurationen, technische Dokumentationen) in
 Echtzeit gemeinsam und mit einer WYSIWYG-User-Experience zu erstellen. Bisherige
 Editor-Frameworks lösen bisher nur jeweils einen Teil der Herausforderung:
-Während WYSIWYG-Editoren wie Lexical oder ProseMirror eine hervorragende
-Nutzererfahrung und Kollaboration bieten, unterstützen sie keine strukturierten
-Inhalte. Formbasierte Editoren wie H5P ermöglichen strukturierte Inhalte,
-bleiben aber in der Nutzererfahrung hinter heutigen Standards zurück und
-unterstützen keine gleichzeitige Bearbeitung. Unser Framework kombiniert beide
-Ansätze und erleichtert so die Erstellung strukturierter Dokumente – bspw. in
-der Bildung, im Jorunalismus oder im Gesundheitswesen.
+Während WYSIWYG-Editoren wie [Lexical](https://lexical.dev/) oder
+[ProseMirror](https://prosemirror.net/) eine hervorragende Nutzererfahrung und
+Kollaboration bieten, unterstützen sie keine strukturierten Inhalte.
+Formbasierte Editoren wie [H5P](https://h5p.org/) ermöglichen strukturierte
+Inhalte, bleiben aber in der Nutzererfahrung hinter heutigen Standards zurück
+und unterstützen keine gleichzeitige Bearbeitung. Unser Framework kombiniert
+beide Ansätze und erleichtert so die Erstellung strukturierter Dokumente, was
+wir im Bildungsbereich für einen Editor für digitale Arbeitsblätter
+demonstrieren wollen.
 
 ### Welche gesellschaftliche Herausforderung willst du mit dem Projekt angehen? \*
 
