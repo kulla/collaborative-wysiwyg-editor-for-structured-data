@@ -201,7 +201,7 @@ Open-Source-Projekt
 verfügbar ist. Auch an der [Serlo Plattform](https://de.serlo.org/) haben wir
 mitgearbeitet, die komplett als
 [Open Source unter GitHub](https://github.com/serlo) zugänglich ist. Leider ist
-die Organisation von einer Insolvenz betroffen, so dass eine Weiterentwcklung
+die Organisation von einer Insolvenz betroffen, so dass eine Weiterentwicklung
 über diese Organisation nicht mehr möglich ist. Die bisherige Arbeit führte auch
 zu kleineren Contributions in anderen Open-Source-Projekten, wie z.B.
 [loro-prosemirror](https://github.com/loro-dev/loro-prosemirror).
