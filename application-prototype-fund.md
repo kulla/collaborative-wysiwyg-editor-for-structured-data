@@ -165,7 +165,14 @@ bereitstellen.
 
 (max. 100 Wörter)
 
-Limit this field to 100 words.
+In den ersten zwei Monaten entsteht der Editor‑Kern, zunächst mit ProseMirror
+für die Rich‑Text‑Bearbeitung auf Basis vorhandener Prototypen. In Monaten drei
+und vier wird getestet, ob die vollständige Rich‑Text‑Bearbeitung direkt im
+Framework möglich ist, um die Nutzererfahrung weiter zu verbessern. Parallel
+dazu entsteht von Monat zwei bis fünf ein Editor für digitale Arbeitsblätter als
+konkreter Anwendungsfall. Ab Monat drei beginnt die Zusammenarbeit mit externen
+Communities. In den letzten zwei Monaten werden Webseite, API und Dokumentation
+erstellt und das Projekt konsolidiert.
 
 ## 3. Team & Erfahrung
 
