@@ -106,12 +106,12 @@ Welten – WYSIWYG und strukturierte Inhalte – zusammenführt. Allerdings ist
 dessen Kern so komplex und eng verzahnt, dass er nicht sinnvoll auf andere
 Bereiche übertragbar ist. In einem
 [Hackathon](https://github.com/kulla/hackathoern-collab-oer-editor) konnte
-gezeigt werden, dass kollaborative Bearbeitung strukturierter Lerninhalte
-möglich ist. Ein [weiterer Prototyp](https://github.com/kulla/2025-10-28-editor)
-demonstriert die Möglichkeit eines WYSIWYG-Editors für strukturierte Inhalte mit
-nur rund 2.000 Zeilen Code. Gleichzeitig zeigte sich in anderen Prototypen, dass
-bestehende Editor‑Frameworks kaum geeignet sind, strukturierte Dokumente wie
-einfache Übungsaufgaben abzubilden
+gezeigt werden, dass kollaborative Bearbeitung möglich ist. Ein
+[weiterer Prototyp](https://github.com/kulla/2025-10-28-editor) demonstriert die
+Möglichkeit eines WYSIWYG-Editors für strukturierte Inhalte mit nur rund 2.000
+Zeilen Code. Gleichzeitig zeigte sich in anderen Prototypen, dass bestehende
+Editor‑Frameworks kaum geeignet sind, strukturierte Dokumente wie einfache
+Übungsaufgaben abzubilden
 ([Prototyp für ProseMirror](https://github.com/kulla/2025-11-15-prosekit-with-multiple-choice-exercise).
 [Prototyp für Lexical](https://github.com/kulla/2025-11-08-lexical-with-multiple-choice-exercise)).
 
