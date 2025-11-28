@@ -10,4 +10,5 @@ like using functional lenses for direct, targeted edits.
 
 - [Architecture of editor framework](./architecture.md)
 - [Open questions](./open-questions.md)
+- [Prototypes](./prototypes.md)
 - [Application for Prototype Fund](./application-prototype-fund.md)
