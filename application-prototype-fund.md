@@ -75,21 +75,23 @@ Erstellung von Formularen oder journalistischen bzw. juristischen Inhalten.
 (max. 175 Wörter)
 
 Die technische Umsetzung basiert auf einem schema-orientierten Ansatz: Die
-Dokumentstruktur wird – angelehnt an JSON Schema oder Typing-Frameworks wie zod
-und io-ts – über klar definierte Knotentypen beschrieben. Diese Typen legen
-nicht nur Eigenschaften und erlaubte Operationen (z. B. Split/Merge) fest,
-sondern auch das Rendering der jeweiligen Knoten.
+Dokumentstruktur wird – angelehnt an JSON Schema oder Typing-Frameworks wie
+[zod](https://zod.dev/) und [io-ts](https://gcanti.github.io/io-ts/) – über klar
+definierte Knotentypen beschrieben. Diese Typen legen nicht nur Eigenschaften
+und erlaubte Operationen (z. B. Split/Merge) fest, sondern auch das Rendering
+der jeweiligen Knoten.
 
-Das Schema dient zudem als strukturierte Schnittstelle für LLMs, sodass Inhalte
-über AI generiert, umgeschrieben oder ergänzt werden können. Intern wird der
-Dokumentenbaum in einer flachen Struktur gespeichert, was effiziente Updates in
-tief verschachtelten Bereichen ermöglicht.
+Intern wird der Dokumentenbaum in einer flachen Struktur gespeichert, was
+effiziente Updates in tief verschachtelten Bereichen ermöglicht. Das Schema
+dient zudem als strukturierte Schnittstelle für LLMs, sodass Inhalte über AI
+generiert, umgeschrieben oder ergänzt werden können.
 
-Für die Echtzeit-Kollaboration wird ein CRDT-Framework wie Yjs oder Loro
-eingesetzt, wodurch gleichzeitige Bearbeitung ohne Konflikte gewährleistet ist.
-In der Prototypenphase wird evaluiert, ob die Rich-Text-Bearbeitung über
-spezielle Blattknoten mit ProseMirror als Editor-Engine oder komplett im
-entwickelten Framework umgesetzt wird.
+Für die Echtzeit-Kollaboration wird ein CRDT-Framework wie
+[Yjs](https://yjs.dev/) oder [Loro](https://loro.dev/) eingesetzt, wodurch
+gleichzeitige Bearbeitung ohne Konflikte gewährleistet ist. In der
+Prototypenphase wird evaluiert, ob die Rich-Text-Bearbeitung über spezielle
+Blattknoten mit ProseMirror als Editor-Engine oder komplett im entwickelten
+Framework umgesetzt wird.
 
 Die Entwicklung erfolgt vollständig in TypeScript. Das Projekt wird unter einer
 freien Apache-Lizenz auf GitHub veröffentlicht.
