@@ -199,7 +199,7 @@ Hinweis: Bitte nur eine Zahl eintragen - max. 950 h für eine Person oder max.
 47.500€ für eine Person oder 95.000€ für Teams. Wie die Fördersummen berechnet
 werden, kann auf https://www.prototypefund.de/faq nachgelesen werden.
 
-- Jeweils 840h
+1680h
 
 ### Erfahrung, Hintergrund, Motivation, Perspektive: Was sollen wir über dich (bzw. euch) wissen und bei der Auswahl berücksichtigen?
 
