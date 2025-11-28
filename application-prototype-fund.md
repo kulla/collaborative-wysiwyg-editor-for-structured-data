@@ -100,11 +100,12 @@ freien Apache-Lizenz auf GitHub veröffentlicht.
 
 (max. 100 Wörter)
 
-Mit dem Serlo‑Editor existiert bereits ein Open‑Source‑Produkt, an dem wir
-federführend mitgearbeitet haben und das beide Welten – WYSIWYG und
-strukturierte Inhalte – zusammenführt. Allerdings ist dessen Kern so komplex und
-eng verzahnt, dass er nicht sinnvoll auf andere Bereiche übertragbar ist. In
-einem [Hackathon](https://github.com/kulla/hackathoern-collab-oer-editor) konnte
+Mit dem [Serlo‑Editor](https://de.serlo.org/editor) existiert bereits ein
+Open‑Source‑Produkt, an dem wir federführend mitgearbeitet haben und das beide
+Welten – WYSIWYG und strukturierte Inhalte – zusammenführt. Allerdings ist
+dessen Kern so komplex und eng verzahnt, dass er nicht sinnvoll auf andere
+Bereiche übertragbar ist. In einem
+[Hackathon](https://github.com/kulla/hackathoern-collab-oer-editor) konnte
 gezeigt werden, dass kollaborative Bearbeitung strukturierter Lerninhalte
 möglich ist. Ein [weiterer Prototyp](https://github.com/kulla/2025-10-28-editor)
 demonstriert die Möglichkeit eines WYSIWYG-Editors für strukturierte Inhalte mit
