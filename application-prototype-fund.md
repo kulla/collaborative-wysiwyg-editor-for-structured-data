@@ -186,11 +186,18 @@ Limit this field to 30 words.
 Hinweis: Max. 3 Projektbeispiele angeben (mit Namen und/oder Link zum
 Repository) (optional | max. 100 Wörter)
 
-Limit this field to 100 words.
-
-- Serlo Editor
-- Serlo Plattform
-- ...
+In der Vergangenheit haben wir beide sowohl ehren- als auch hauptamtlich bei der
+Organisation Serlo Education e.V. mitgewirkt. Dort haben wir maßgeblich den
+[Serlo Editor](https://en.serlo.org/editor) entwickelt, der als
+Open-Source-Projekt
+[auf GitHub](https://github.com/serlo/frontend/tree/staging/packages/editor)
+verfügbar ist. Auch an der [Serlo Plattform](https://de.serlo.org/) haben wir
+mitgearbeitet, die komplett als
+[Open Source unter GitHub](https://github.com/serlo) zugänglich ist. Leider ist
+die Organisation von einer Insolvenz betroffen, so dass eine Weiterentwcklung
+über diese Organisation nicht mehr möglich ist. Die bisherige Arbeit führte auch
+zu kleineren Contributions in anderen Open-Source-Projekten, wie z.B.
+[loro-prosemirror](https://github.com/loro-dev/loro-prosemirror).
 
 ### Wie viele Stunden willst du (bzw. will das Team) in den 6 Monaten Förderzeitraum insgesamt an der Umsetzung arbeiten? \*
 
