@@ -1,5 +1,14 @@
 # Prototypes
 
+## Editor for Structured Documents
+
+- [hackathoern-collab-oer-editor](https://github.com/kulla/hackathoern-collab-oer-editor):
+  First prototype for collaborative editor for structured documents
+- [2025-10-28-editor](https://github.com/kulla/2025-10-28-editor): Prototype for
+  editor core with FP-style node type definitions
+- [2025-11-19-experiment-with-two-editor-instances](https://github.com/kulla/2025-11-19-experiment-with-two-editor-instances):
+  First experiment with using ProseMirror for rich text leaf nodes
+
 ## Check: Implementation with existing Rich Text Frameworks
 
 ### Prototype with Lexical
