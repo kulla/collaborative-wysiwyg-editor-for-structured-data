@@ -125,15 +125,17 @@ https://github.com/kulla/collaborative-wysiwyg-editor-for-structured-data
 
 (max. 100 Wörter)
 
-Auf der einen Seite gibt es erfolgreiche WYSIWYG-Editor-Frameworks wie Lexical,
-ProseMirror und Slate.js. Deren Datenmodell unterstützt jedoch keine Strukturen,
-die sich in JSON als Objekte darstellen lassen – etwa eine Übungsaufgabe, die
-als Objekt mit Aufgabenstellung und Lösung beschrieben wird. Dadurch können
-komplexere Dokumentstrukturen nicht vorgegeben werden.
+Auf der einen Seite gibt es erfolgreiche WYSIWYG-Editor-Frameworks wie
+[Lexical](https://lexical.dev/), [ProseMirror](https://prosemirror.net/) und
+[Slate.js](https://docs.slatejs.org/). Deren Datenmodell unterstützt jedoch
+keine Strukturen, die sich in JSON als Objekte darstellen lassen – etwa eine
+Übungsaufgabe, die als Objekt mit Aufgabenstellung und Lösung beschrieben wird.
+Dadurch können komplexere Dokumentstrukturen nicht vorgegeben werden.
 
-Auf der anderen Seite stehen formularbasierte Editoren wie H5P, deren
-Nutzererfahrung im Vergleich zu modernen WYSIWYG-Editoren eingeschränkter ist
-und die zudem keine gleichzeitige Kollaboration ermöglichen.
+Auf der anderen Seite stehen formularbasierte Editoren wie
+[H5P](https://h5p.org/), deren Nutzererfahrung im Vergleich zu modernen
+WYSIWYG-Editoren eingeschränkter ist und die zudem keine gleichzeitige
+Kollaboration ermöglichen.
 
 Unser Ansatz kombiniert beide Welten, indem von Anfang an neben Listen auch
 Objekte im Dokumentenbaum erlaubt werden. So können beliebige
