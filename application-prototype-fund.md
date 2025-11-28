@@ -221,13 +221,21 @@ werden, kann auf https://www.prototypefund.de/faq nachgelesen werden.
 
 Limit this field to 100 words.
 
-- Kulla: Ausgebildete Lehrkraft für Mathematik und Physik und
-  Bildungsbegesiterte Person. Hat über 10 Jahre lang ehren- und hauptamtlich
-  beim Serlo mitgewirkt, welche monatlich 600.000 bis 1.000.000 Schüler\*innen
-  erreicht. Kulla hat außerdem das freie Lernbuch "Mathe für Nicht-Freaks"
-  gegründet und geschrieben, welches geschätzt 50% aller MINT-Studienanfänger
-  erreicht und ihnen einen einfachen Übergang von der Schul- in die
-  Universitätsmathematik ermöglichst
+Stephan Kulla ist ausgebildete Lehrkraft für Mathematik und Physik. Über 10
+Jahre lang hat er bei Serlo Education mitgewirkt, die monatlich 600.000 bis
+1.000.000 Schüler\*innen über die freie Lernplattform
+[serlo.org](https://de.serlo.org/) erreicht. Stephan hat außerdem das freie
+Lernbuch
+["Mathe für Nicht-Freaks"](https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks)
+gegründet und geschrieben, welches geschätzt 50% aller
+MINT-Studienanfänger\*innen in Deutschland erreicht und ihnen einen einfachen
+Übergang von der Schul- in die Universitätsmathematik ermöglicht.
+
+[Botho Willer](https://botho.cc) ist ein erfahrener Softwareentwickler und
+Designer mit einem starken Fokus auf nutzerfreundliche und leicht zugängliche
+Open-Source-Lösungen. Er hat über 10 Jahre in verschiedenen Projekten wie Serlo
+Education oder PlantBuddies mitgewirkt, die darauf abzielen, Technologie für
+Bildung und gesellschaftlichen Nutzen einzusetzen.
 
 ## 4. Second Stage
 
