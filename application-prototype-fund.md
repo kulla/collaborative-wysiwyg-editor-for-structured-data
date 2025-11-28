@@ -155,8 +155,11 @@ Das Framework wird frei zugänglich über GitHub und NPM bereitgestellt. Um die
 Zielgruppe zu erreichen, suchen wir den Austausch mit bestehenden Communities
 rund um ProseMirror, Slate.js und Lexical. Erfolgreiche Konzepte aus dem Projekt
 können perspektivisch in bestehende Open-Source-Editor-Ökosysteme einfließen.
-Wir werden anschließend das Framework verwenden, um kollaborative und intuitive
-Erstellung von digitalen Arbeitsblättern zu ermöglichen.
+
+Wir werden das Framework verwenden, um kollaborative und intuitive Erstellung
+von digitalen Arbeitsblättern zu ermöglichen. Dies wiederum nutzt Institutionen
+und Ed-Tech-Anbieter, die Lernmanagementsysteme für das Bildungssystem
+bereitstellen.
 
 ### Skizziere kurz die wichtigsten Meilensteine, die im Förderzeitraum umgesetzt werden sollen. \*
 
